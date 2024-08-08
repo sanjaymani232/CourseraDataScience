@@ -1,0 +1,4 @@
+Import the required libraries we need for the lab.
+import piplite
+await piplite.install(['numpy'],['pandas'])
+await piplite.install(['seaborn'])
